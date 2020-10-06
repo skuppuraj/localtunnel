@@ -113,7 +113,7 @@ _go_ [go-localtunnel](https://github.com/localtunnel/go-localtunnel)
 
 ## server
 
-See [localtunnel/server](//github.com/localtunnel/server) for details on the server that powers localtunnel.
+See [localtunnel/server](//github.com/skuppuraj/server) for details on the server that powers localtunnel.
 
 ## License
 
